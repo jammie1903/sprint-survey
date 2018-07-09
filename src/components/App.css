@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.btn.btn-default {
+  margin: 0 0 0 10px;
+  background: #257fef;
+  color: white;
+  border: 1px solid #CCC;
+  padding: 6px;
+  border-radius: 6px;
+  min-width: 80px;
+}
+
+.btn.btn-default:hover {
+  color: white;
+  background: #3d9deb;
+  border: 1px solid #AAA;
+}
+
+.btn.btn-default:focus, .btn.btn-default:active {
+  outline: none;
+}
+
+textarea.form-control {
+  margin: 10px 0;
+  resize: vertical;
+  height: 80px;
+}
+
+.main {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.survey-table {
+
+  margin: auto;
+}
+
+.survey-table tr td:nth-child(1){
+  width: 25%;
+}
+
+.survey-list-entry {
+  padding: 10px;
+  font-size: 18px;
+}
+.survey-list-entry .survey-name {
+  font-weight: 600;
+}
+.survey-list-entry .survey-link {
+  margin: 0 0 0 10px;
+}
+
+.Create .btn {
+  margin: 10px; 
+}
+
+.survey-table td.selected {
+  background-color: lightblue;
+}
+
+.survey-field-name {
+  vertical-align: middle;
+}
+
+.emoji-large {
+  font-size: 22px;
+}
+
+.emoji-large.selectable {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.emoji-large.selectable.selected {
+  opacity: 1;
+}

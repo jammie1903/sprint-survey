@@ -1,0 +1,16 @@
+.board-name {
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    vertical-align: middle;
+}
+
+.list-group-item {
+    display: flex;
+}
+
+.sprint-name {
+    margin: auto auto auto 0;
+    font-weight: 600;
+    font-size: 14px;
+}
