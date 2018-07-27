@@ -1,3 +1,6 @@
+based on the folling blogpost
+https://medium.com/@joentakanen/agile-metrics-by-spotify-4c8653f6984
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
